@@ -45,7 +45,3 @@ else
 fi
 
 
-sleep .5
-echo -e "${BIGreen}Coloring root... ${NC}"
-sudo cp $homeDirectory/.bashrc /root/
-
